@@ -1140,7 +1140,7 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     story_sketch_caption: "El primer boceto de Nick representando un juego de programación en acción."
     story_long_way_2: "todavía nos queda mucho por hacer antes de que completemos nuestra misión, asi que..."
     jobs_title: "¡Ven a trabajar con nosotros y ayuda a escribir la historia de CodeCombat!"
-    jobs_subtitle: "¿No encontras una buena opción pero estás interesado en mantener el  contacto? Mirá nuestra entrada \"Crear Tu Propio\"."
+    jobs_subtitle: "¿No encuentras una buena opción pero estás interesado en mantener el  contacto? Mira nuestra entrada \"Crear Tu Propio\"."
     jobs_benefits: "Beneficios del empleado"
     jobs_benefit_4: "Días personales/enfermo ilimitados" # {change}
     jobs_benefit_5: "Desarrollo profesional y soporte de formación continua" # {change}
@@ -1375,7 +1375,7 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     thang_editor_suffix: "para modificar el arte de CodeCombat. Permite a las unidades lanzar proyectiles, altera la dirección de una animación, cambia los puntos de vida de una unidad o sube tu propio sprite de vectores."
     article_editor_prefix: "¿Ves algún error en nuestros documentos? ¿Quieres hacer algunas instrucciones para tus propias creaciones? Revisa el"
     article_editor_suffix: "y ayuda a los jugadores de CodeCombat conseguir lo más posible de su tiempo jugando."
-    find_us: "Encuentranos en etsos sitios"
+    find_us: "Encuentranos en estos sitios"
     social_github: "Revisa todo nuestro código en GitHub"
     social_blog: "Lee el blog de CodeCombat en Sett"
     social_discource: "Únete a la discusión en nuestro foro"
@@ -1641,7 +1641,7 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     video_shown_before: "mostrado antes de __level__"
     link_google_classroom: "Enlace a Google Classroom"
     select_your_classroom: "Selecciona tu Aula"
-    no_classrooms_found: "No se encontraron sulas"
+    no_classrooms_found: "No se encontraron aulas"
     create_classroom_manually: "Crear un aula manualmente"
     classes: "Clases"
 #    certificate_btn_print: "Print"
